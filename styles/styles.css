@@ -59,6 +59,10 @@
   }
 }
 
+#nav {
+  margin-top: 10px;
+}
+
 body {
   font-size: var(--body-font-size-m);
   margin: 0;
