@@ -145,7 +145,12 @@ header {
 
 .intro-ecommerce, .shop {
   margin-top: 80px !important;
+}
 
+.intro-ecommerce {
+  background: linear-gradient(110.47deg, #5A7E74 7.57%, #28443c 60.24%) !important;
+  padding: 23px !important;
+  color: #FFF !important;
 }
 
 h1, h2, h3,
