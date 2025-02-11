@@ -143,7 +143,7 @@ header {
     padding: 3px 20px !important;
 }
 
-.intro-commerce .shop {
+.intro-commerce, .shop {
   margin-top: 100px !important;
 
 }
