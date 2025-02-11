@@ -82,7 +82,8 @@ header {
 }
 
 .cards.icons > ul > li img {
-  width: 60% !important;
+  width: 50% !important;
+  aspect-ratio: auto !important; 
 }
 
 .cards.icons > ul > li {
