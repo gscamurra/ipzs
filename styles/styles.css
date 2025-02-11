@@ -82,8 +82,12 @@ header {
 }
 
 .cards.icons > ul > li img {
-  width: 50% !important;
+  width: 40% !important;
   aspect-ratio: auto !important; 
+}
+
+.cards.cards.icons > ul {
+  grid-template-columns: repeat(auto-fill, minmax(289px, 1fr)) !important;
 }
 
 .cards.icons > ul > li {
