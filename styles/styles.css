@@ -109,6 +109,10 @@ header {
   text-transform: uppercase !important;
 }
 
+.cards.evidenza p {
+  font-size: 15px !important;
+}
+
 
 h1, h2, h3,
 h4, h5, h6 {
