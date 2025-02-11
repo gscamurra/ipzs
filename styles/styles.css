@@ -126,6 +126,10 @@ header {
     border-radius: 30px !important;;
 }
 
+.cards.shop h2 {
+  font-size: 22px !important;
+} 
+
 
 h1, h2, h3,
 h4, h5, h6 {
