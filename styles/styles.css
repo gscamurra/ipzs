@@ -136,6 +136,13 @@ header {
     font-size: 14px;
 }
 
+.cards.shop a.link {
+  background-color: #efc042 !important;
+    font-size: 16px !important;
+    color: #252525 !important;
+    padding: 3px 20px !important;
+}
+
 h1, h2, h3,
 h4, h5, h6 {
   font-family: var(--heading-font-family);
