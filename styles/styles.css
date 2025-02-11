@@ -136,7 +136,7 @@ header {
     font-size: 14px;
 }
 
-.cards.shop a.link {
+.cards.shop a.button:any-link, button {
   background-color: #efc042 !important;
     font-size: 16px !important;
     color: #252525 !important;
